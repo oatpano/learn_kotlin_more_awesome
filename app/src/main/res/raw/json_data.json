@@ -1,0 +1,147 @@
+{
+  "dataList": [
+    {
+      "json_featuretype":"CSV"
+    ,"LOCATION":"10504 139 ST"
+    ,"NAME":"Our Lady Of Good Counsel"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"http://www.olgcschool.ca"
+    ,"FACILITY_SUBTYPE":"Private"
+    ,"FACILITYID":1001254922
+    ,"LONGITUDE":-122.8353677
+    ,"LATITUDE":49.19346605
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":""
+    ,"NAME":"Pacific Highway Border Crossing (Truck Crossing)"
+    ,"FACILITY_TYPE":"Other"
+    ,"WEBLINK":""
+    ,"FACILITY_SUBTYPE":""
+    ,"FACILITYID":1001263698
+    ,"LONGITUDE":-122.7341478
+    ,"LATITUDE":49.00301105
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"15181 FRASER HWY"
+    ,"NAME":"Mr. Lube (Fleetwood)"
+    ,"FACILITY_TYPE":"Garbage and Recycling"
+    ,"WEBLINK":"http://www.mrlube.com/en/Mr-Lube-Near-You/Locate-a-Mr-Lube/surrey-15181-fraser-highway.aspx?storeid=34&code=pc"
+    ,"FACILITY_SUBTYPE":"Used Oil"
+    ,"FACILITYID":1001254438
+    ,"LONGITUDE":-122.8017491
+    ,"LATITUDE":49.16691268
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"8305 122A ST"
+    ,"NAME":"Kennedy Trail Elementary School"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"https://www.surreyschools.ca/schools/kennedytrail/Pages/default.aspx"
+    ,"FACILITY_SUBTYPE":"Elementary"
+    ,"FACILITYID":1001251320
+    ,"LONGITUDE":-122.8835609
+    ,"LATITUDE":49.15400798
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"13484 24 AVE"
+    ,"NAME":"Elgin Park Secondary School"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"https://www.surreyschools.ca/schools/elginpark/Pages/default.aspx"
+    ,"FACILITY_SUBTYPE":"Secondary"
+    ,"FACILITYID":1001254156
+    ,"LONGITUDE":-122.8484479
+    ,"LATITUDE":49.04461296
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"1730 142 ST"
+    ,"NAME":"Bayridge Elementary School"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"https://www.surreyschools.ca/schools/bayridge/Pages/default.aspx"
+    ,"FACILITY_SUBTYPE":"Elementary"
+    ,"FACILITYID":1001267692
+    ,"LONGITUDE":-122.8279786
+    ,"LATITUDE":49.03383901
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"13750 96 AVE"
+    ,"NAME":"Surrey Memorial Hospital"
+    ,"FACILITY_TYPE":"Hospital"
+    ,"WEBLINK":"http://www.fraserhealth.ca/find_us/locations/our_locations?site_id=1792"
+    ,"FACILITY_SUBTYPE":""
+    ,"FACILITYID":1001253734
+    ,"LONGITUDE":-122.842543
+    ,"LATITUDE":49.17584644
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"14590 116A AVE"
+    ,"NAME":"Iqra Islamic School"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"http://www.iqraschool.com"
+    ,"FACILITY_SUBTYPE":"Private"
+    ,"FACILITYID":1001254241
+    ,"LONGITUDE":-122.818216
+    ,"LATITUDE":49.21383695
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"7778 152 ST"
+    ,"NAME":"Eaglequest Golf Course"
+    ,"FACILITY_TYPE":"Golf"
+    ,"WEBLINK":"http://www.surrey.ca/culture-recreation/7287.aspx"
+    ,"FACILITY_SUBTYPE":""
+    ,"FACILITYID":1001266716
+    ,"LONGITUDE":-122.7994544
+    ,"LATITUDE":49.14393525
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"15093 FRASER HWY"
+    ,"NAME":"Fleetwood Bottle Return Depot"
+    ,"FACILITY_TYPE":"Garbage and Recycling"
+    ,"WEBLINK":"https://www.return-it.ca/locations/fleetwood-bottle-depot/"
+    ,"FACILITY_SUBTYPE":"Bottle Depot"
+    ,"FACILITYID":1001270960
+    ,"LONGITUDE":-122.8041902
+    ,"LATITUDE":49.16756679
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"9457 KING GEORGE BLVD"
+    ,"NAME":"Queen Elizabeth Secondary School"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"https://www.surreyschools.ca/schools/queene/Pages/default.aspx"
+    ,"FACILITY_SUBTYPE":"Secondary"
+    ,"FACILITYID":1001264552
+    ,"LONGITUDE":-122.847466
+    ,"LATITUDE":49.17452107
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"1880 LARONDE DR"
+    ,"NAME":"Laronde (French Immersion) Elementary School"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"https://www.surreyschools.ca/schools/laronde/Pages/default.aspx"
+    ,"FACILITY_SUBTYPE":"Elementary"
+    ,"FACILITYID":1001246738
+    ,"LONGITUDE":-122.8572599
+    ,"LATITUDE":49.03560735
+    }
+  ,{
+      "json_featuretype":"CSV"
+    ,"LOCATION":"11665 97 AVE"
+    ,"NAME":"Royal Heights Elementary School"
+    ,"FACILITY_TYPE":"School"
+    ,"WEBLINK":"https://www.surreyschools.ca/schools/royalheights/Pages/default.aspx"
+    ,"FACILITY_SUBTYPE":"Elementary"
+    ,"FACILITYID":1001251063
+    ,"LONGITUDE":-122.8988928
+    ,"LATITUDE":49.17942179
+    }
+  ]
+}
